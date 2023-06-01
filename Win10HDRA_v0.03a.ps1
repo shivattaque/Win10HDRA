@@ -1,6 +1,6 @@
 # Script "HDR Automation" Final v0.3
 # In this script, I automate the switch of HDR mode for Windows 10
-# By Bertrand Givord and ChatGPT (GPT 3.5)
+# By shivattaque and ChatGPT (GPT 3.5)
 
 # Check if VLC is running
 $vlcRunning = Get-Process -Name "vlc" -ErrorAction SilentlyContinue
